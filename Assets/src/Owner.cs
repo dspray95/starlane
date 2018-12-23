@@ -1,0 +1,1 @@
+﻿public enum OWNER {NONE, PLAYER, AI1, AI2, AI3, AI4};
